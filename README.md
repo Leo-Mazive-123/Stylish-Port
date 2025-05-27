@@ -46,9 +46,10 @@ Edit
 ├── /Flexbox by Leo T. Mazive_files/
 │   ├── index.css
 │   ├── images (Unsplash and icon assets)
+
 📬 Contact
 Created with ❤️ by Leo T. Mazive
 Feel free to connect:
 📧 Email: leomazive01@gmail.com
-🔗 GitHub: your-github
+🔗 GitHub: https://github.com/Leo-Mazive-123/Stylish-Port.git
 
