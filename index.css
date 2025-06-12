@@ -279,3 +279,105 @@
 .leo{
     text-align: center;
 }
+
+/* @media screen and ( max-width 768px) { 
+    
+    
+} */
+
+/* ---------- Tablet View (≤768px) ---------- */
+@media screen and (max-width: 768px) {
+    .text-1 {
+        font-size: 40px;
+    }
+
+    .p1 {
+        font-size: 18px;
+        text-align: center;
+        padding: 0 10px;
+    }
+
+    .menu {
+        margin-left: 80vw;
+        width: 40px;
+    }
+
+    .icon-1 {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .text-33 {
+        font-size: 30px;
+    }
+
+    .projects {
+        grid-template-columns: 1fr;
+        width: 90%;
+    }
+
+    .text-04 {
+        font-size: 25px;
+        top: 150px;
+    }
+
+    .button-1, .button-2, .button-4, .button-6, .button-66 {
+        font-size: 13px;
+        padding: 10px 20px;
+    }
+}
+
+/* ---------- Mobile View (≤480px) ---------- */
+@media screen and (max-width: 480px) {
+    .text-1 {
+        font-size: 28px;
+    }
+
+    .p1 {
+        font-size: 16px;
+    }
+
+    .info-1 {
+        top: 150px;
+    }
+
+    .text-2 {
+        font-size: 24px;
+    }
+
+    .text-3,
+    .text-5 {
+        font-size: 14px;
+    }
+
+    .p5 {
+        font-size: 25px;
+    }
+
+    .text-04 {
+        font-size: 20px;
+        top: 100px;
+    }
+
+    .project-info {
+        font-size: 12px;
+        left: 20px;
+        bottom: 20px;
+    }
+
+    .icons-last {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+
+    .button-1, .button-2, .button-4, .button-6, .button-66 {
+        font-size: 11px;
+        padding: 8px 16px;
+    }
+
+    .menu {
+        margin-left: 75vw;
+    }
+}
